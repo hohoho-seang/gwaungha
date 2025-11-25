@@ -1,5 +1,8 @@
 streamlit
-pandas
-matplotlib
 folium
 streamlit-folium
+pandas 
+yfinance 
+plotly
+datetime
+timedelta
